@@ -1,0 +1,1 @@
+This project is a simple recipe website built using what I learned from The Odin Project. I’ll practice the basics of HTML and CSS, including using anchor tags to create links, adding images with the `img` tag and `src` attribute, creating ordered and unordered lists, and styling the pages with CSS.
